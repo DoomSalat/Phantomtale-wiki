@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Phantomtale wiki/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "index"
             }
           }
         ]
@@ -222,7 +222,9 @@
   },
   "active": "1791e929d8dba9f4",
   "lastOpenFiles": [
+    "Home.md",
     "Phantomtale wiki/index.md",
+    "Phantomtale wiki/index.md.tmp.21188.e99ab7730090",
     "Phantomtale wiki/index.md.tmp.21188.6902390dfd2f",
     "Phantomtale wiki/Articles/Phantomtale/Опыты/Фантомное пространство.md",
     "Phantomtale wiki/Articles/Phantomtale/Phantomtale AU (корпорация).md",
@@ -255,9 +257,7 @@
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Фантом Андайн.md",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Фантом Меттатон.md",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Фантом Альфис.md",
-    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Фантом Санс.md",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности",
-    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи",
-    "Phantomtale wiki/Articles/Phantomtale/Корпуса/Энергетический корпус.md.tmp.21188.a8d7df7d6380"
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи"
   ]
 }
