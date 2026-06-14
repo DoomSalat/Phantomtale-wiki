@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: github.com/DoomSalat/Phantomtale-wiki.git
+  baseUrl: DoomSalat.github.io/Phantomtale-wiki
   ignorePatterns:
     - private
     - templates
