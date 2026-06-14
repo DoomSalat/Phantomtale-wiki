@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phantomtale wiki/Articles/Phantomtale/Опыты/Фантомное пространство.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Фантомное пространство"
+              "title": "Home"
             }
           }
         ]
@@ -220,10 +220,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1791e929d8dba9f4",
+  "active": "679840a9f51f8407",
   "lastOpenFiles": [
-    "Phantomtale wiki/Articles/Phantomtale/Phantomtale AU (корпорация).md",
     "Phantomtale wiki/Articles/Phantomtale/Опыты/Фантомное пространство.md",
+    "Phantomtale wiki/Articles/Phantomtale/Phantomtale AU (корпорация).md",
     "Phantomtale wiki/Articles/Phantomtale/Корпуса/Управляющий корпус.md",
     "Phantomtale wiki/Assets/Схема корпорации.svg.tmp.21188.526cded157e3",
     "Phantomtale wiki/Assets/Схема корпорации.svg.tmp.21188.9235ad190d71",
