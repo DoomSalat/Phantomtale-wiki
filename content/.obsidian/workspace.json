@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "98da468b2ea8dbf8",
+        "id": "ee3d92b750ac82d3",
         "type": "tabs",
         "children": [
           {
-            "id": "ed282e1f5c7a92d7",
+            "id": "679840a9f51f8407",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phantomtale wiki/Templates/Article template.md",
+                "file": "Phantomtale wiki/Articles/Phantomtale/Корпуса/Центральный парк.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Article template"
+              "title": "Центральный парк"
             }
           }
         ]
@@ -33,7 +33,7 @@
       {
         "id": "f6a90e74c2f5bf39",
         "type": "tabs",
-        "dimension": 69.34579439252336,
+        "dimension": 61.8334892422825,
         "children": [
           {
             "id": "1791e929d8dba9f4",
@@ -80,7 +80,7 @@
       {
         "id": "b438e4118ee0e491",
         "type": "tabs",
-        "dimension": 30.654205607476637,
+        "dimension": 38.16651075771749,
         "children": [
           {
             "id": "cb04487dc4b04b4d",
@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 343.5
   },
   "right": {
     "id": "14a861516fa14080",
@@ -220,19 +220,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ed282e1f5c7a92d7",
+  "active": "679840a9f51f8407",
   "lastOpenFiles": [
-    "Phantomtale wiki/Articles/Статья 1.md",
-    "Phantomtale wiki/Templates/Article template.md",
-    "Phantomtale wiki/Templates/Article template.md",
-    "Новый текстовый документ.txt",
-    "Home.md",
-    "Phantomtale wiki/Assets",
-    "Phantomtale wiki/Templates",
-    "Phantomtale wiki/Categories",
-    "Phantomtale wiki/Articles",
-    "Phantomtale wiki",
-    "Добро пожаловать.md",
-    "Без названия.base"
+    "Phantomtale wiki/Articles/Phantomtale/Phantomtale AU (корпорация).md",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Андроиды-горничные.md",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Няни.md",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Врачи.md",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Книжные черви.md",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Координаторы.md",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Разведчики.md",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Воины.md",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Дроны.md",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Теоретики.md",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Тестировщики.md",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Учёные.md",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ари.md",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Фантом Чара.md",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Фантом Андайн.md",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Фантом Меттатон.md",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Фантом Альфис.md",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Фантом Санс.md",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи",
+    "Phantomtale wiki/Articles/Phantomtale/Корпуса/Энергетический корпус.md.tmp.21188.a8d7df7d6380",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Андроиды-горничные.md",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Андроиды-горничные.md.tmp.21188.c0f45187e6d0",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Няни.md",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Няни.md.tmp.21188.f1ee4c239ec6",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Врачи.md",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Врачи.md.tmp.21188.36b6179f692c",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Книжные черви.md",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Книжные черви.md.tmp.21188.f2cd53fbf376",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Координаторы.md",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Разведчики.md",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Воины.md",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Дроны.md",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Дроны.md.tmp.21188.26e2c8e6b430",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Теоретики.md.tmp.21188.b7c5c9ed1ffc",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Тестировщики.md.tmp.21188.6402093deec0"
   ]
 }

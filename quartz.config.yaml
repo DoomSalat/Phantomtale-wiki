@@ -11,6 +11,8 @@ configuration:
   ignorePatterns:
     - private
     - templates
+    - Templates
+    - "Phantomtale wiki/Templates"
     - .obsidian
   theme:
     fontOrigin: googleFonts

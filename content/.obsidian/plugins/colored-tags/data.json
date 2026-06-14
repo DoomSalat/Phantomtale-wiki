@@ -10,7 +10,16 @@
     "highTextContrast": false
   },
   "knownTags": {
-    "home": 1
+    "должность": 9,
+    "корпорация": 3,
+    "корпус": 4,
+    "материал": 5,
+    "опыт": 6,
+    "персонаж": 10,
+    "технология": 7,
+    "home": 1,
+    "phantomtale": 2,
+    "template": 8
   },
   "tagColors": {},
   "_version": 4
