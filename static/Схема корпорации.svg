@@ -1,0 +1,130 @@
+<svg viewBox="0 0 1080 490" xmlns="http://www.w3.org/2000/svg" font-family="monospace">
+  <rect width="1080" height="490" fill="#080c14"/>
+  <line x1="530" y1="14" x2="530" y2="478" stroke="#0f1e30" stroke-width="1"/>
+
+  <!-- ══════════════ ВИД С КРЫШИ ══════════════ -->
+  <text x="245" y="13" text-anchor="middle" fill="#3a6ad0" font-size="10" letter-spacing="3">ВИД С КРЫШИ</text>
+
+  <!-- Научный корпус — яркий базовый квадрат -->
+  <rect x="10" y="20" width="470" height="450" rx="4" fill="#102040" stroke="#2860c0" stroke-width="2.5"/>
+  <text x="245" y="484" text-anchor="middle" fill="#2860c0" font-size="8">НАУЧНЫЙ КОРПУС · основание</text>
+
+  <!-- Исторический север -->
+  <rect x="10" y="20" width="470" height="76" rx="3" fill="#0d1e40" stroke="#3268c8" stroke-width="1.5"/>
+  <text x="245" y="64" text-anchor="middle" fill="#5a84e0" font-size="10">ИСТОРИЧЕСКИЙ КОРПУС · север · задняя стена</text>
+
+  <!-- Жилой запад -->
+  <rect x="10" y="96" width="76" height="300" rx="3" fill="#0c1c3c" stroke="#2c60b8" stroke-width="1.5"/>
+  <text x="48" y="248" text-anchor="middle" fill="#5a84e0" font-size="10" transform="rotate(-90,48,248)">ЖИЛОЙ КОРПУС · запад</text>
+
+  <!-- Разведывательный восток -->
+  <rect x="404" y="96" width="76" height="300" rx="3" fill="#0e2040" stroke="#3870cc" stroke-width="1.5"/>
+  <text x="442" y="248" text-anchor="middle" fill="#5a84e0" font-size="10" transform="rotate(90,442,248)">РАЗВЕДЫВАТЕЛЬНЫЙ · восток</text>
+
+  <!-- Пропускной юг -->
+  <rect x="10" y="396" width="470" height="74" rx="3" fill="#09152e" stroke="#1a3868" stroke-width="1.5" stroke-dasharray="8,4"/>
+  <text x="245" y="437" text-anchor="middle" fill="#2a4878" font-size="10">ПРОПУСКНОЙ ПУНКТ · юг · вход</text>
+
+  <!-- Центральная полость (парк) -->
+  <rect x="86" y="96" width="318" height="300" rx="2" fill="#060c1c" stroke="#0f1e38" stroke-width="1" stroke-dasharray="5,5"/>
+  <text x="245" y="218" text-anchor="middle" fill="#1a2840" font-size="9">ЦЕНТРАЛЬНАЯ ПОЛОСТЬ</text>
+  <text x="245" y="230" text-anchor="middle" fill="#121e32" font-size="8">парк · каждые 20 этажей</text>
+
+  <!-- Линии парка -->
+  <line x1="86" y1="172" x2="404" y2="172" stroke="#0f1e34" stroke-width="1" stroke-dasharray="3,5"/>
+  <line x1="86" y1="246" x2="404" y2="246" stroke="#0f1e34" stroke-width="1" stroke-dasharray="3,5"/>
+  <line x1="86" y1="322" x2="404" y2="322" stroke="#0f1e34" stroke-width="1" stroke-dasharray="3,5"/>
+  <text x="92" y="170" fill="#0f1e34" font-size="7">20 эт</text>
+  <text x="92" y="244" fill="#0f1e34" font-size="7">20 эт</text>
+  <text x="92" y="320" fill="#0f1e34" font-size="7">20 эт</text>
+
+  <!-- Управляющий — большой круг касается внутренних стен -->
+  <circle cx="245" cy="246" r="159" fill="none" stroke="#5080f0" stroke-width="2" stroke-dasharray="12,6"/>
+  <text x="245" y="118" text-anchor="middle" fill="#5080f0" font-size="10" letter-spacing="1">УПРАВЛЯЮЩИЙ КОРПУС</text>
+  <text x="245" y="131" text-anchor="middle" fill="#2848a0" font-size="8">тарелка · нависает над столбом</text>
+
+  <!-- Энергетический — центральный круг-столб -->
+  <circle cx="245" cy="246" r="36" fill="#0c1c42" stroke="#3870e8" stroke-width="2"/>
+  <text x="245" y="241" text-anchor="middle" fill="#6090ff" font-size="8">ЭНЕРГЕ-</text>
+  <text x="245" y="254" text-anchor="middle" fill="#6090ff" font-size="8">ТИЧЕСКИЙ</text>
+  <circle cx="245" cy="246" r="7" fill="#3870e8"/>
+
+
+  <!-- ══════════════ ФРОНТАЛЬНЫЙ РАЗРЕЗ ══════════════ -->
+  <text x="800" y="13" text-anchor="middle" fill="#3a6ad0" font-size="10" letter-spacing="3">ФРОНТАЛЬНЫЙ РАЗРЕЗ</text>
+
+  <!-- x-layout: Ист=570-592 | Жил=592-672 | ПаркЛ=672-762 | Энерг=762-818 | ПаркП=818-908 | Разв=908-988 -->
+  <!-- y-layout: Крыша=20-40 | Овал=38-80 | Стены+Парк=80-360 | Научный=360-415 | Пропуск=415-443 -->
+
+  <!-- 1. Крыша — прямоугольник без названия (смотровая площадка) -->
+  <rect x="555" y="20" width="440" height="22" rx="2" fill="#0d1e3a" stroke="#4878e8" stroke-width="1.5"/>
+
+  <!-- 2. Управляющий корпус — ОВАЛ (тарелка) на столбе -->
+  <ellipse cx="775" cy="58" rx="198" ry="24" fill="#0d2048" stroke="#5080f0" stroke-width="2"/>
+  <text x="775" y="62" text-anchor="middle" fill="#7aa0ff" font-size="10" letter-spacing="1">УПРАВЛЯЮЩИЙ КОРПУС</text>
+
+  <!-- 3. Научный корпус — фоновый слой (стиль парка) на всю ширину стен -->
+  <rect x="570" y="360" width="418" height="55" rx="2" fill="#060c1c" stroke="#0d1e38" stroke-width="1.5" stroke-dasharray="6,4"/>
+
+  <!-- 4. Все стены — от верха до низа (поверх Научного) -->
+
+  <!-- Исторический — задняя тонкая полоса -->
+  <rect x="570" y="82" width="22" height="278" rx="1" fill="#0c1e42" stroke="#2a52a8" stroke-width="1.5"/>
+  <text x="581" y="228" text-anchor="middle" fill="#3060a0" font-size="8" transform="rotate(-90,581,228)">ИСТОРИЧЕСКИЙ</text>
+
+  <!-- Жилой — левая стена -->
+  <rect x="592" y="82" width="80" height="278" rx="3" fill="#0c1c3c" stroke="#2c60b8" stroke-width="1.5"/>
+  <text x="632" y="228" text-anchor="middle" fill="#5a84e0" font-size="9" transform="rotate(-90,632,228)">ЖИЛОЙ КОРПУС</text>
+
+  <!-- Центральная полость ЛЕВАЯ (парк) -->
+  <rect x="672" y="82" width="90" height="278" fill="#060c1c" stroke="#0d1e38" stroke-width="1" stroke-dasharray="5,4"/>
+  <line x1="672" y1="152" x2="762" y2="152" stroke="#0f1e34" stroke-width="1"/>
+  <line x1="672" y1="222" x2="762" y2="222" stroke="#0f1e34" stroke-width="1"/>
+  <line x1="672" y1="292" x2="762" y2="292" stroke="#0f1e34" stroke-width="1"/>
+  <text x="717" y="120" text-anchor="middle" fill="#12243c" font-size="8">ПАРК</text>
+  <text x="717" y="190" text-anchor="middle" fill="#12243c" font-size="8">ПАРК</text>
+  <text x="717" y="260" text-anchor="middle" fill="#12243c" font-size="8">ПАРК</text>
+  <text x="717" y="330" text-anchor="middle" fill="#12243c" font-size="8">ПАРК</text>
+
+  <!-- Энергетический — центральный столб -->
+  <rect x="762" y="82" width="56" height="278" rx="2" fill="#0c1c42" stroke="#3870e8" stroke-width="2"/>
+  <text x="790" y="228" text-anchor="middle" fill="#6090ff" font-size="8" transform="rotate(-90,790,228)">ЭНЕРГЕТИЧЕСКИЙ · СТОЛБ</text>
+
+  <!-- Центральная полость ПРАВАЯ (парк) -->
+  <rect x="818" y="82" width="90" height="278" fill="#060c1c" stroke="#0d1e38" stroke-width="1" stroke-dasharray="5,4"/>
+  <line x1="818" y1="152" x2="908" y2="152" stroke="#0f1e34" stroke-width="1"/>
+  <line x1="818" y1="222" x2="908" y2="222" stroke="#0f1e34" stroke-width="1"/>
+  <line x1="818" y1="292" x2="908" y2="292" stroke="#0f1e34" stroke-width="1"/>
+  <text x="863" y="120" text-anchor="middle" fill="#12243c" font-size="8">ПАРК</text>
+  <text x="863" y="190" text-anchor="middle" fill="#12243c" font-size="8">ПАРК</text>
+  <text x="863" y="260" text-anchor="middle" fill="#12243c" font-size="8">ПАРК</text>
+  <text x="863" y="330" text-anchor="middle" fill="#12243c" font-size="8">ПАРК</text>
+
+  <!-- Разведывательный — правая стена -->
+  <rect x="908" y="82" width="80" height="278" rx="3" fill="#0e2042" stroke="#3870cc" stroke-width="1.5"/>
+  <text x="948" y="228" text-anchor="middle" fill="#5a84e0" font-size="9" transform="rotate(90,948,228)">РАЗВЕДЫВАТЕЛЬНЫЙ</text>
+
+  <!-- 5. Ядро — точка на столбе ВЫШЕ Научного (cy = 360 - 70 = 290) -->
+  <circle cx="790" cy="290" r="9" fill="#3870e8" stroke="#6090ff" stroke-width="1.5"/>
+
+  <!-- 6. Научный корпус — оверлей ВНУТРИ каждой стены (показывает пересечение) -->
+  <!-- Исторический -->
+  <rect x="570" y="360" width="22" height="55" rx="0" fill="#08162e" stroke="#1e4080" stroke-width="1"/>
+  <!-- Жилой -->
+  <rect x="592" y="360" width="80" height="55" rx="0" fill="#09172e" stroke="#1e4080" stroke-width="1"/>
+  <text x="632" y="391" text-anchor="middle" fill="#2860c0" font-size="7" transform="rotate(-90,632,391)">НАУ. КОР.</text>
+  <!-- Энергетический -->
+  <rect x="762" y="360" width="56" height="55" rx="0" fill="#0a1838" stroke="#1e4080" stroke-width="1"/>
+  <text x="790" y="393" text-anchor="middle" fill="#2860c0" font-size="7">НАУ. КОР.</text>
+  <!-- Разведывательный -->
+  <rect x="908" y="360" width="80" height="55" rx="0" fill="#09172e" stroke="#1e4080" stroke-width="1"/>
+  <text x="948" y="391" text-anchor="middle" fill="#2860c0" font-size="7" transform="rotate(90,948,391)">НАУ. КОР.</text>
+
+  <!-- Научный подпись -->
+  <text x="779" y="395" text-anchor="middle" fill="#1a4070" font-size="9">НАУЧНЫЙ КОРПУС</text>
+
+  <!-- 7. Пропускной пункт -->
+  <rect x="555" y="415" width="440" height="28" rx="2" fill="#09152e" stroke="#1a3868" stroke-width="1.5" stroke-dasharray="7,4"/>
+  <text x="775" y="433" text-anchor="middle" fill="#2a4878" font-size="9" letter-spacing="1">ПРОПУСКНОЙ ПУНКТ</text>
+
+</svg>

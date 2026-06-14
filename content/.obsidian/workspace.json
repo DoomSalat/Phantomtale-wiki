@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phantomtale wiki/index.md",
+                "file": "Phantomtale wiki/Articles/Phantomtale/Phantomtale AU (корпорация).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Phantomtale AU (корпорация)"
             }
           }
         ]
@@ -220,14 +220,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1791e929d8dba9f4",
+  "active": "679840a9f51f8407",
   "lastOpenFiles": [
-    "Home.md",
+    "Phantomtale wiki/Articles/Phantomtale/Phantomtale AU (корпорация).md.tmp.21188.b8f2c2e2bf8c",
+    "Схема.md",
+    "Phantomtale wiki/Articles/Phantomtale/Корпуса/Жилой корпус.md",
+    "Phantomtale wiki/Articles/Phantomtale/Phantomtale AU (корпорация).md",
     "Phantomtale wiki/index.md",
+    "Home.md",
     "Phantomtale wiki/index.md.tmp.21188.e99ab7730090",
     "Phantomtale wiki/index.md.tmp.21188.6902390dfd2f",
     "Phantomtale wiki/Articles/Phantomtale/Опыты/Фантомное пространство.md",
-    "Phantomtale wiki/Articles/Phantomtale/Phantomtale AU (корпорация).md",
     "Phantomtale wiki/Articles/Phantomtale/Корпуса/Управляющий корпус.md",
     "Phantomtale wiki/Assets/Схема корпорации.svg.tmp.21188.526cded157e3",
     "Phantomtale wiki/Assets/Схема корпорации.svg.tmp.21188.9235ad190d71",
@@ -239,7 +242,6 @@
     "Phantomtale wiki/Articles/Phantomtale/Phantomtale AU (корпорация).md.tmp.21188.f4fe92fae0e6",
     "Phantomtale wiki/Articles/Phantomtale/Phantomtale AU (корпорация).md.tmp.21188.3e000c7366f4",
     "Phantomtale wiki/Articles/Phantomtale/Корпуса/Разведывательный корпус.md",
-    "Phantomtale wiki/Articles/Phantomtale/Корпуса/Жилой корпус.md",
     "Phantomtale wiki/Articles/Phantomtale/Корпуса/Центральный парк.md",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Андроиды-горничные.md",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Няни.md",
@@ -255,8 +257,6 @@
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ари.md",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Фантом Чара.md",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Фантом Андайн.md",
-    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Фантом Меттатон.md",
-    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Фантом Альфис.md",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи"
   ]
