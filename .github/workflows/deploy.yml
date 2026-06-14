@@ -49,7 +49,7 @@ jobs:
         run: npx quartz plugin install
 
       - name: Build Quartz
-        run: npx quartz build
+        run: npx quartz build -d "content/Phantomtale wiki"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
