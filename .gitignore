@@ -3,11 +3,19 @@
 .obsidian/workspace-mobile.json
 .obsidian/plugins/
 
-# ��������� �����
+# Quartz build output
+public/
+.quartz/
+quartz/.quartz-cache/
+
+# Dependencies
+node_modules/
+
+# System files
 .DS_Store
 Thumbs.db
 desktop.ini
 
-# ��������� �����
+# Temp files
 *.tmp
 *.log

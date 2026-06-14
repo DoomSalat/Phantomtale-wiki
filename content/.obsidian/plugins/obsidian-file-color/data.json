@@ -1,0 +1,32 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "_eWwr_yhIDfPYDtfT8DGc",
+      "name": "Red",
+      "value": "#d44e4e"
+    },
+    {
+      "id": "SFW02vH3TjYbmh7tuxn1Y",
+      "name": "Blue",
+      "value": "#586dd5"
+    },
+    {
+      "id": "iE1uwnuKPEAOANllf61at",
+      "name": "Green",
+      "value": "#5cce5a"
+    },
+    {
+      "id": "S7mPMFM6uxHlTccjbME-e",
+      "name": "Purple",
+      "value": "#9153d0"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Phantomtale wiki",
+      "color": "S7mPMFM6uxHlTccjbME-e"
+    }
+  ]
+}
