@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phantomtale wiki/Articles/Phantomtale/Phantomtale AU (корпорация).md",
+                "file": "Phantomtale wiki/Articles/Phantomtale/Опыты/Фантомное пространство.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phantomtale AU (корпорация)"
+              "title": "Фантомное пространство"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:template",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -220,13 +220,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "679840a9f51f8407",
+  "active": "1791e929d8dba9f4",
   "lastOpenFiles": [
+    "Phantomtale wiki/Articles/Phantomtale/Phantomtale AU (корпорация).md",
+    "Phantomtale wiki/Articles/Phantomtale/Опыты/Фантомное пространство.md",
     "Phantomtale wiki/Articles/Phantomtale/Корпуса/Управляющий корпус.md",
     "Phantomtale wiki/Assets/Схема корпорации.svg.tmp.21188.526cded157e3",
     "Phantomtale wiki/Assets/Схема корпорации.svg.tmp.21188.9235ad190d71",
     "Phantomtale wiki/Assets/Схема корпорации.svg.tmp.21188.0a53aaf845ab",
-    "Phantomtale wiki/Articles/Phantomtale/Phantomtale AU (корпорация).md",
     "Phantomtale wiki/Assets/Схема корпорации.svg",
     "Phantomtale wiki/Articles/Phantomtale/Корпуса/Исторический корпус.md",
     "Phantomtale wiki/Articles/Phantomtale/Корпуса/Энергетический корпус.md",
