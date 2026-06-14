@@ -1,13 +1,13 @@
 # Obsidian
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
-.obsidian/plugins/*/data.json
+.obsidian/plugins/
 
-# Системные файлы
+# пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ
 .DS_Store
 Thumbs.db
 desktop.ini
 
-# Временные файлы
+# пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ
 *.tmp
 *.log
