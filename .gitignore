@@ -5,6 +5,7 @@
 
 # Quartz build output
 public/
+.quartz/
 quartz/.quartz-cache/
 
 # Dependencies
