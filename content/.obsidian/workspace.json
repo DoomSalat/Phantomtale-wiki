@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c91afdf8705883ac",
+        "id": "ac912892fa4d8ecf",
         "type": "tabs",
         "children": [
           {
-            "id": "24fc8410e5431aff",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Phantomtale wiki/Assets/Phantom Chara prototype.png"
-              },
-              "icon": "lucide-image",
-              "title": "Phantom Chara prototype"
-            }
-          },
-          {
-            "id": "dcc076332daf09ea",
+            "id": "490b0f540a573d1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phantomtale wiki/Articles/Phantomtale/Корпуса/Управляющий корпус.md",
+                "file": "Phantomtale wiki/Articles/Phantomtale/Технологии/Альфа Фантом.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Управляющий корпус"
+              "title": "Альфа Фантом"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -46,7 +33,7 @@
       {
         "id": "f6a90e74c2f5bf39",
         "type": "tabs",
-        "dimension": 61.8334892422825,
+        "dimension": 64.73339569691299,
         "children": [
           {
             "id": "1791e929d8dba9f4",
@@ -93,10 +80,10 @@
       {
         "id": "b438e4118ee0e491",
         "type": "tabs",
-        "dimension": 38.16651075771749,
+        "dimension": 35.26660430308699,
         "children": [
           {
-            "id": "cb04487dc4b04b4d",
+            "id": "dcc076332daf09ea",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -126,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phantomtale wiki/Templates/Article template.md",
+                "file": "Phantomtale wiki/Articles/Phantomtale/Технологии/Альфа Фантом.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Article template"
+              "title": "Обратные ссылки для Альфа Фантом"
             }
           },
           {
@@ -145,12 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phantomtale wiki/Articles/Статья 1.md",
+                "file": "Phantomtale wiki/Articles/Phantomtale/Технологии/Альфа Фантом.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Статья 1"
+              "title": "Исходящие ссылки из Альфа Фантом"
             }
           },
           {
@@ -188,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phantomtale wiki/Templates/Article template.md",
+                "file": "Phantomtale wiki/Articles/Phantomtale/Технологии/Альфа Фантом.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Article template"
+              "title": "Структура Альфа Фантом"
             }
           }
         ],
@@ -219,60 +206,65 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 378.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "graph:Граф": false
     }
   },
-  "active": "dcc076332daf09ea",
+  "active": "490b0f540a573d1e",
   "lastOpenFiles": [
-    "Phantomtale wiki/Articles/Phantomtale/Корпуса/Жилой корпус.md",
+    "Phantomtale wiki/Articles/Phantomtale/Технологии/Альфа Фантом.md.tmp.1408.969a4f2da17c",
+    "Phantomtale wiki/Articles/Phantomtale/Технологии/Альфа Фантом.md.tmp.1408.512f96d89b47",
+    "Phantomtale wiki/Articles/Phantomtale/Технологии/Альфа Фантом.md.tmp.1408.e0b26c559636",
+    "Phantomtale wiki/Articles/Phantomtale/Phantomtale AU (корпорация).md",
+    "Phantomtale wiki/index.md",
     "Phantomtale wiki/Articles/Законы/Миры/Фантомное измерение.md",
+    "Схема.md",
+    "Phantomtale wiki/Articles/Phantomtale/Технологии/Альфа Фантом.md",
+    "Phantomtale wiki/Articles/Phantomtale/Технологии/Извлекатель решимости.md",
+    "Phantomtale wiki/Assets/Alpha fantom.jpg",
+    "Phantomtale wiki/Articles/Phantomtale/Технологии/Альфа Фантом.md.tmp.1408.cfab97ad5c65",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ари.md",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ари.md.tmp.1408.57e89775d8e5",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ари.md.tmp.1408.1f5446d337c1",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ари.md.tmp.1408.6f9cb6321cf6",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ари.md.tmp.1408.9f6a3c58065c",
+    "Phantomtale wiki/Assets/Ari angel.png",
+    "Phantomtale wiki/Assets/Ari red.png",
+    "Phantomtale wiki/Assets/Ari blue.png",
+    "Phantomtale wiki/Assets/Ari ghost.png",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ари.md.tmp.1408.45db5d61e0e1",
+    "Phantomtale wiki/Articles/Phantomtale/Технологии/Андроид.md",
+    "Phantomtale wiki/Articles/Phantomtale/Технологии/Андроид.md.tmp.1408.cf371ed5839a",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ари.md.tmp.1408.a936dcfa6df1",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Фантом Альфис.md",
+    "Phantomtale wiki/Articles/Phantomtale/Принципы/Целостность существа.md",
+    "Phantomtale wiki/Articles/Phantomtale/Технологии/Полумаска (Домино).md",
+    "Phantomtale wiki/Articles/Phantomtale/Корпуса/Управляющий корпус.md",
+    "Phantomtale wiki/Articles/Phantomtale/Корпуса/Жилой корпус.md",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Директор.md",
-    "Phantomtale wiki/Articles/Phantomtale/Корпуса/Управляющий корпус.md.tmp.13572.c9b7e80ecc78",
-    "Phantomtale wiki/Articles/Phantomtale/Корпуса/sedLkR2wE",
-    "Phantomtale wiki/Articles/Phantomtale/Корпуса/sedjNnHpw",
-    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Фантом Санс.md.tmp.13572.dde2e670cbbc",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Фантом Чара.md",
-    "Phantomtale wiki/Articles/Phantomtale/Персонал/Директор.md.tmp.13572.0deb627d6b4a",
-    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Фантом Чара.md.tmp.13572.63e771df82ae",
-    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Фантом Чара.md.tmp.13572.2730db61a609",
     "Phantomtale wiki/Assets/Phantom Chara prototype.png",
-    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Фантом Чара.md.tmp.13572.440b985d0d34",
     "Phantomtale wiki/Articles/Phantomtale/Схема корпорации.svg",
-    "Phantomtale wiki/Assets/Без названия",
-    "Phantomtale wiki/Assets",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Фантом Санс.md",
     "Phantomtale wiki/Articles/Phantomtale/Материалы/7 осколков души истинного Гастера.md",
     "Phantomtale wiki/Articles/Phantomtale/Материалы/Осколок седьмой души.md",
     "Phantomtale wiki/Articles/Phantomtale/Существа/Фантомы.md",
-    "Phantomtale wiki/Articles/Phantomtale/Технологии/Полумаска (Домино).md",
-    "Phantomtale wiki/Articles/Phantomtale/Технологии/Извлекатель решимости.md",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Полумаска (Домино).md",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Фантом Меттатон.md",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Фантом Андайн.md",
-    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Фантом Альфис.md",
-    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ари.md",
-    "Phantomtale wiki/index.md",
     "Phantomtale wiki/Articles/Phantomtale/Материалы/Фантомий.md",
     "Phantomtale wiki/Articles/Phantomtale/Опыты/Фантомное пространство.md",
     "Phantomtale wiki/Templates/Template-Существо.md",
-    "Phantomtale wiki/Articles/Phantomtale/Фантомы.md",
-    "Phantomtale wiki/Articles/Phantomtale/Технологии/Ядро Таймлайна.md",
-    "Phantomtale wiki/Articles/Phantomtale/Корпуса/Управляющий корпус.md",
-    "Phantomtale wiki/Templates/Template-Закон.md",
-    "Phantomtale wiki/Templates/Template-Мир.md",
-    "Phantomtale wiki/Articles/Phantomtale/Фантомное измерение.md",
-    "Phantomtale wiki/Articles/Phantomtale/Технологии/Синтез фантомной оболочки.md",
     "Phantomtale wiki/Assets/Схема корпорации.svg"
   ]
 }
