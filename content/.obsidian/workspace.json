@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ac912892fa4d8ecf",
+        "id": "f71f28ac1783dfee",
         "type": "tabs",
         "children": [
           {
-            "id": "490b0f540a573d1e",
+            "id": "04d35472f3494634",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phantomtale wiki/Articles/Phantomtale/Технологии/Дроны.md",
+                "file": "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Fireplace Sans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Дроны"
+              "title": "Fireplace Sans"
             }
           }
         ]
@@ -83,11 +83,13 @@
         "dimension": 35.266604303087,
         "children": [
           {
-            "id": "dcc076332daf09ea",
+            "id": "490b0f540a573d1e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
+              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Граф"
             }
@@ -113,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phantomtale wiki/Articles/Phantomtale/Технологии/Альфа Фантом.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Альфа Фантом"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -132,12 +133,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phantomtale wiki/Articles/Phantomtale/Технологии/Альфа Фантом.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Альфа Фантом"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -175,13 +175,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phantomtale wiki/Articles/Phantomtale/Технологии/Альфа Фантом.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Альфа Фантом"
+              "title": "Структура"
             }
           }
         ],
@@ -222,50 +221,50 @@
   },
   "active": "490b0f540a573d1e",
   "lastOpenFiles": [
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Fireplace Sans.md",
+    "Phantomtale wiki/Assets/Ashard/Void portal ashard.jpg",
+    "Phantomtale wiki/Assets/Ashard/Ashard original.jpg",
+    "Phantomtale wiki/Assets/Fireplace Sans/Fireplace 29.jpg",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Fireplace Sans.md.tmp.33788.6b4099054904",
+    "Phantomtale wiki/Assets/Fireplace Sans/Fireplace 28.jpg",
+    "Phantomtale wiki/Assets/Fireplace Sans/Fireplace 21.jpg",
+    "Phantomtale wiki/Assets/Fireplace Sans/Fireplace 3.jpg",
+    "Phantomtale wiki/Assets/Fireplace Sans/Fireplace 1.jpg",
+    "Phantomtale wiki/Assets/Fireplace Sans/Fireplace 65.jpg",
+    "Phantomtale wiki/Assets/Fireplace Sans/Fireplace 64.jpg",
+    "Phantomtale wiki/Assets/Fireplace Sans/Fireplace 63.jpg",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ashard.md",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ashard.md.tmp.33788.289e0e546e55",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ashard.md.tmp.33788.97650852e42f",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ashard.md.tmp.33788.501cd12a094a",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Fireplace Sans.md.tmp.33788.9baf640da2ed",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ashard.md.tmp.33788.fbd87725ff2e",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ashard.md.tmp.33788.6f803ff7597a",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ashard.md.tmp.33788.58420a2f519c",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ashard.md.tmp.33788.b010c87d07a9",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ashard.md.tmp.33788.a6ec50e2946e",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Фантом Альфис.md",
+    "Phantomtale wiki/Articles/Phantomtale/Phantomtale AU (корпорация).md",
+    "Phantomtale wiki/Articles/Phantomtale/Технологии/Капсула разведки.md",
+    "Phantomtale wiki/Articles/Phantomtale/Технологии/Фантом-симбионт.md",
+    "Phantomtale wiki/Articles/Phantomtale/Технологии/Магическая биохирургия.md",
+    "Phantomtale wiki/Articles/Phantomtale/Технологии/Дроны.md",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Книжные черви.md",
-    "Phantomtale wiki/Articles/Phantomtale/Корпуса/Энергетический корпус.md.tmp.79456.8ac55573c8ae",
-    "Phantomtale wiki/Articles/Phantomtale/Корпуса/Энергетический корпус.md.tmp.79456.64069af53478",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Тестировщики.md",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Учёные.md",
-    "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Тестировщики.md.tmp.79456.95c67d594f6f",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Теоретики.md",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Разведчики.md",
-    "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Тестировщики.md.tmp.79456.5ce017873e8e",
-    "Phantomtale wiki/Articles/Phantomtale/Корпуса/Научный корпус.md.tmp.79456.7eebd5c227ee",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Координаторы.md",
-    "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Теоретики.md.tmp.79456.6dd5a2a69558",
-    "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Книжные черви.md.tmp.79456.bc56ae7e4f7d",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Директор.md",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Врачи.md",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Воины.md",
-    "Phantomtale wiki/Articles/Phantomtale/Корпуса/Жилой корпус.md.tmp.79456.7137b3920b87",
-    "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Андроиды-горничные.md.tmp.79456.fecaed8ff317",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Андроиды-горничные.md",
-    "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Андроиды-горничные.md.tmp.79456.6f38d009145c",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Дроны.md",
-    "Phantomtale wiki/Articles/Phantomtale/Технологии/Дроны.md",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Няни.md",
     "Phantomtale wiki/Articles/Phantomtale/Технологии/Альфа Фантом.md",
     "Phantomtale wiki/Articles/Phantomtale/Технологии/Андроид.md",
     "Phantomtale wiki/Articles/Phantomtale/Технологии/Извлекатель решимости.md",
     "Phantomtale wiki/Articles/Phantomtale/Технологии/Полумаска (Домино).md",
-    "Phantomtale wiki/Articles/Phantomtale/Технологии/Серая дверь.md",
-    "Phantomtale wiki/Articles/Phantomtale/Технологии/Синтез фантомной оболочки.md",
-    "Phantomtale wiki/Articles/Phantomtale/Технологии/Ядро Таймлайна.md",
-    "Phantomtale wiki/Articles/Phantomtale/Технологии/FUN Value.md",
-    "Phantomtale wiki/Articles/Phantomtale/Принципы/Целостность существа.md",
-    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Фантом Чара.md",
-    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Фантом Санс.md",
-    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Фантом Меттатон.md",
-    "Phantomtale wiki/Assets/Phantom undyne battle mod.png",
-    "Phantomtale wiki/Assets/Phantom Undyne.png",
-    "Phantomtale wiki/Assets/Phantom Sans.jpg",
-    "Phantomtale wiki/Assets/Phantom Alphys.png",
-    "Phantom Alphys.png",
-    "Phantomtale wiki/Assets/Phantom mettaton.png",
-    "Phantomtale wiki/Assets/Alpha Phantom.jpg",
-    "Phantomtale wiki/Assets/Phantom creature.jpg",
-    "Phantomtale wiki/Assets/phantom_sans__new_ref__by_missmorena707_dbpcmuq-fullview.jpg",
-    "Phantomtale wiki/Assets/Alpha fantom.jpg"
+    "Phantomtale wiki/Articles/Phantomtale/Технологии/Серая дверь.md"
   ]
 }

@@ -19,3 +19,6 @@ desktop.ini
 # Temp files
 *.tmp
 *.log
+
+# Claude Code local settings
+.claude/settings.local.json
