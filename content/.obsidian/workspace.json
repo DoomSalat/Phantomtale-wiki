@@ -11,14 +11,12 @@
             "id": "04d35472f3494634",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Fireplace Sans.md",
-                "mode": "source",
-                "source": false
+                "file": "Phantomtale wiki/Assets/Ashard/Void portal ashard.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Fireplace Sans"
+              "icon": "lucide-image",
+              "title": "Void portal ashard"
             }
           }
         ]
@@ -115,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ashard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Ashard"
             }
           },
           {
@@ -133,11 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ashard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из Ashard"
             }
           },
           {
@@ -175,12 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ashard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Ashard"
             }
           }
         ],
@@ -219,21 +220,22 @@
       "graph:Граф": false
     }
   },
-  "active": "490b0f540a573d1e",
+  "active": "04d35472f3494634",
   "lastOpenFiles": [
+    "Phantomtale wiki/Assets/Ashard/Stand Sans.jpg",
+    "Phantomtale wiki/Assets/Ashard/Old Story.jpg",
+    "Phantomtale wiki/Assets/Ashard/Human.jpg",
+    "Phantomtale wiki/Assets/Ashard/Fire eye hard.png",
+    "Phantomtale wiki/Assets/Ashard/Ashard Sit down.png",
+    "Phantomtale wiki/Assets/Ashard/Ashard original.jpg",
+    "Phantomtale wiki/Assets/Ashard/Ashard.png",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ashard.md",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Fireplace Sans.md",
     "Phantomtale wiki/Assets/Ashard/Void portal ashard.jpg",
-    "Phantomtale wiki/Assets/Ashard/Ashard original.jpg",
     "Phantomtale wiki/Assets/Fireplace Sans/Fireplace 29.jpg",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Fireplace Sans.md.tmp.33788.6b4099054904",
     "Phantomtale wiki/Assets/Fireplace Sans/Fireplace 28.jpg",
     "Phantomtale wiki/Assets/Fireplace Sans/Fireplace 21.jpg",
-    "Phantomtale wiki/Assets/Fireplace Sans/Fireplace 3.jpg",
-    "Phantomtale wiki/Assets/Fireplace Sans/Fireplace 1.jpg",
-    "Phantomtale wiki/Assets/Fireplace Sans/Fireplace 65.jpg",
-    "Phantomtale wiki/Assets/Fireplace Sans/Fireplace 64.jpg",
-    "Phantomtale wiki/Assets/Fireplace Sans/Fireplace 63.jpg",
-    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ashard.md",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ashard.md.tmp.33788.289e0e546e55",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ashard.md.tmp.33788.97650852e42f",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ashard.md.tmp.33788.501cd12a094a",
