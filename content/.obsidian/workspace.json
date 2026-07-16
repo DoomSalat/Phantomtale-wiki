@@ -11,12 +11,14 @@
             "id": "04d35472f3494634",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Phantomtale wiki/Assets/Ashard/Void portal ashard.jpg"
+                "file": "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ashard.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Void portal ashard"
+              "icon": "lucide-file",
+              "title": "Ashard"
             }
           }
         ]
@@ -222,6 +224,9 @@
   },
   "active": "04d35472f3494634",
   "lastOpenFiles": [
+    "Phantomtale wiki/Assets/Ashard/Ashard main.png",
+    "Phantomtale wiki/Assets/Ashard/Void portal ashard.jpg",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ashard.md.tmp.33788.c354ac93fdd6",
     "Phantomtale wiki/Assets/Ashard/Stand Sans.jpg",
     "Phantomtale wiki/Assets/Ashard/Old Story.jpg",
     "Phantomtale wiki/Assets/Ashard/Human.jpg",
@@ -231,11 +236,8 @@
     "Phantomtale wiki/Assets/Ashard/Ashard.png",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ashard.md",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Fireplace Sans.md",
-    "Phantomtale wiki/Assets/Ashard/Void portal ashard.jpg",
     "Phantomtale wiki/Assets/Fireplace Sans/Fireplace 29.jpg",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Fireplace Sans.md.tmp.33788.6b4099054904",
-    "Phantomtale wiki/Assets/Fireplace Sans/Fireplace 28.jpg",
-    "Phantomtale wiki/Assets/Fireplace Sans/Fireplace 21.jpg",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ashard.md.tmp.33788.289e0e546e55",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ashard.md.tmp.33788.97650852e42f",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ashard.md.tmp.33788.501cd12a094a",
@@ -244,7 +246,6 @@
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ashard.md.tmp.33788.6f803ff7597a",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ashard.md.tmp.33788.58420a2f519c",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ashard.md.tmp.33788.b010c87d07a9",
-    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ashard.md.tmp.33788.a6ec50e2946e",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Фантом Альфис.md",
     "Phantomtale wiki/Articles/Phantomtale/Phantomtale AU (корпорация).md",
     "Phantomtale wiki/Articles/Phantomtale/Технологии/Капсула разведки.md",
