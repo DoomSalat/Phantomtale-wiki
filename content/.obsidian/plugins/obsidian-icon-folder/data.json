@@ -6,6 +6,9 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAnchor",
+      "LiActivity",
+      "LiApple",
       "LiBackpack"
     ],
     "recentlyUsedIconsSize": 5,
@@ -30,5 +33,7 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Phantomtale wiki": "LiBackpack"
+  "Phantomtale wiki": "LiBackpack",
+  "Phantomtale wiki/Articles/Phantomtale": "LiApple",
+  "Phantomtale wiki/Articles/Законы": "LiAnchor"
 }

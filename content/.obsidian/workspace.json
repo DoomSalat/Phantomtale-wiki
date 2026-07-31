@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ashard.md",
+                "file": "Phantomtale wiki/Articles/Законы/Устройство мультивселенной.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ashard"
+              "title": "Устройство мультивселенной"
             }
           }
         ]
@@ -213,20 +213,42 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "templater-obsidian:Templater": false,
-      "graph:Граф": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "04d35472f3494634",
   "lastOpenFiles": [
+    "Phantomtale wiki/Articles/Законы/Схема мультивселенной.svg",
+    "Phantomtale wiki/Articles/Законы/Энергия мультивселенной.md",
+    "Phantomtale wiki/Articles/Законы/Устройство мультивселенной.md",
+    "Phantomtale wiki/Assets/Схема мультивселенной.svg.tmp.1340.dcb482eb52a7",
+    "Phantomtale wiki/Assets/Схема мультивселенной.svg.tmp.1340.2b1eebb22f00",
+    "Phantomtale wiki/Articles/Законы/Существа мультивселенной.md",
+    "Phantomtale wiki/Assets/Схема мультивселенной.svg.tmp.1340.b98aa89d6ee4",
+    "Phantomtale wiki/Assets/Схема мультивселенной.svg.tmp.1340.46a7577f5eb7",
+    "Phantomtale wiki/Articles/Phantomtale/Опыты/Фантомное пространство.md",
+    "Phantomtale wiki/Articles/Phantomtale/Phantomtale AU (корпорация).md",
+    "Phantomtale wiki/Articles/Законы/Устройство мультивселенной.md.tmp.1340.32e8c2f94de8",
+    "Схема.md",
+    "Phantomtale wiki/Articles/Законы/Структура вселенной.md",
+    "Phantomtale wiki/Articles/Законы/Устройство мультивселенной.md.tmp.1340.0c2d148b4b62",
+    "Phantomtale wiki/Assets/Схема мультивселенной.svg",
+    "Phantomtale wiki/Assets/Схема мультивселенной.svg.tmp.1340.b5a2d205a8a9",
+    "Phantomtale wiki/Articles/Законы/Законы мультивселенной.md.tmp.1340.08c0469f77a8",
+    "Phantomtale wiki/Articles/Законы/Устройство мультивселенной.md.tmp.1340.1ed5c9c5668a",
+    "Phantomtale wiki/Articles/Законы/Устройство мультивселенной.md.tmp.1340.a6327ee40270",
+    "Phantomtale wiki/Articles/Законы/Законы мультивселенной.md",
+    "Phantomtale wiki/Articles/Законы/Мультивселенная.md",
+    "Phantomtale wiki/Articles/Законы/Души (мультивселенная).md",
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ashard.md",
     "Phantomtale wiki/Assets/Ashard/Ashard main.png",
     "Phantomtale wiki/Assets/Ashard/Void portal ashard.jpg",
-    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ashard.md.tmp.33788.c354ac93fdd6",
     "Phantomtale wiki/Assets/Ashard/Stand Sans.jpg",
     "Phantomtale wiki/Assets/Ashard/Old Story.jpg",
     "Phantomtale wiki/Assets/Ashard/Human.jpg",
@@ -234,20 +256,8 @@
     "Phantomtale wiki/Assets/Ashard/Ashard Sit down.png",
     "Phantomtale wiki/Assets/Ashard/Ashard original.jpg",
     "Phantomtale wiki/Assets/Ashard/Ashard.png",
-    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ashard.md",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Fireplace Sans.md",
-    "Phantomtale wiki/Assets/Fireplace Sans/Fireplace 29.jpg",
-    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Fireplace Sans.md.tmp.33788.6b4099054904",
-    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ashard.md.tmp.33788.289e0e546e55",
-    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ashard.md.tmp.33788.97650852e42f",
-    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ashard.md.tmp.33788.501cd12a094a",
-    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Fireplace Sans.md.tmp.33788.9baf640da2ed",
-    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ashard.md.tmp.33788.fbd87725ff2e",
-    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ashard.md.tmp.33788.6f803ff7597a",
-    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ashard.md.tmp.33788.58420a2f519c",
-    "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Ashard.md.tmp.33788.b010c87d07a9",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Персонажи/Фантом Альфис.md",
-    "Phantomtale wiki/Articles/Phantomtale/Phantomtale AU (корпорация).md",
     "Phantomtale wiki/Articles/Phantomtale/Технологии/Капсула разведки.md",
     "Phantomtale wiki/Articles/Phantomtale/Технологии/Фантом-симбионт.md",
     "Phantomtale wiki/Articles/Phantomtale/Технологии/Магическая биохирургия.md",
@@ -259,15 +269,6 @@
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Разведчики.md",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Координаторы.md",
     "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Директор.md",
-    "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Врачи.md",
-    "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Воины.md",
-    "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Андроиды-горничные.md",
-    "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Дроны.md",
-    "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Няни.md",
-    "Phantomtale wiki/Articles/Phantomtale/Технологии/Альфа Фантом.md",
-    "Phantomtale wiki/Articles/Phantomtale/Технологии/Андроид.md",
-    "Phantomtale wiki/Articles/Phantomtale/Технологии/Извлекатель решимости.md",
-    "Phantomtale wiki/Articles/Phantomtale/Технологии/Полумаска (Домино).md",
-    "Phantomtale wiki/Articles/Phantomtale/Технологии/Серая дверь.md"
+    "Phantomtale wiki/Articles/Phantomtale/Персонал/Должности/Врачи.md"
   ]
 }
