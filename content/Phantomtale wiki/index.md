@@ -13,7 +13,7 @@ tags:
 
 ## С чего начать
 
-- [[Articles/Phantomtale/Phantomtale AU (корпорация)|Phantomtale AU — Корпорация]] — основная статья о мире
+- [[Phantomtale AU (корпорация)|Phantomtale AU — Корпорация]] — основная статья о мире
 
 ---
 
