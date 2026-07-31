@@ -33,7 +33,5 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Phantomtale wiki": "LiBackpack",
-  "Phantomtale wiki/Articles/Phantomtale": "LiApple",
-  "Phantomtale wiki/Articles/Законы": "LiAnchor"
+  "Phantomtale wiki": "LiBackpack"
 }
