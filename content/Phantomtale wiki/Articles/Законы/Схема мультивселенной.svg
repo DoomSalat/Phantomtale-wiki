@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 680 730">
+  <!-- Generator: Adobe Illustrator 29.8.3, SVG Export Plug-In . SVG Version: 2.1.1 Build 3)  -->
+  <defs>
+    <style>
+      .st0 {
+        opacity: .6;
+        stroke-dasharray: 4 4;
+      }
+
+      .st0, .st1, .st2, .st3, .st4 {
+        isolation: isolate;
+      }
+
+      .st0, .st5 {
+        stroke: #b4b2a9;
+      }
+
+      .st0, .st5, .st6, .st7, .st8 {
+        fill: none;
+      }
+
+      .st1, .st2 {
+        font-size: 12px;
+      }
+
+      .st1, .st2, .st3, .st4 {
+        font-family: ArialMT, Arial;
+      }
+
+      .st1, .st3 {
+        fill: #e4e2d8;
+      }
+
+      .st9 {
+        fill: #181818;
+      }
+
+      .st2 {
+        fill: #ffffff;
+      }
+
+      .st4 {
+        fill: #1a1a1a;
+      }
+
+      .st10 {
+        fill: #ba7517;
+      }
+
+      .st3 {
+        font-size: 11px;
+      }
+
+      .st11 {
+        fill: #fcebeb;
+        stroke: #e24b4a;
+        stroke-dasharray: 3 3;
+      }
+
+      .st11, .st6 {
+        stroke-width: 1.2px;
+      }
+
+      .st12 {
+        fill: #b4b2a9;
+      }
+
+      .st13 {
+        fill: #1d9e75;
+      }
+
+      .st14 {
+        opacity: .9;
+      }
+
+      .st4 {
+        font-size: 9px;
+      }
+
+      .st6 {
+        stroke: #888780;
+      }
+
+      .st15 {
+        fill: #7f77dd;
+      }
+
+      .st16 {
+        opacity: .7;
+      }
+
+      .st7 {
+        stroke: #0f6e56;
+        stroke-width: 2.2px;
+      }
+
+      .st17 {
+        fill: #26215c;
+      }
+
+      .st8 {
+        stroke: #26215c;
+        stroke-width: .8px;
+      }
+    </style>
+  </defs>
+  <rect class="st9" width="680" height="730"/>
+  <circle class="st0" cx="340" cy="300" r="70"/>
+  <circle class="st0" cx="340" cy="300" r="140"/>
+  <circle class="st0" cx="340" cy="300" r="210"/>
+  <text class="st3" transform="translate(325.25 222)"><tspan x="0" y="0">1 круг</tspan></text>
+  <text class="st3" transform="translate(325.25 152)"><tspan x="0" y="0">2 круг</tspan></text>
+  <text class="st3" transform="translate(325.25 82)"><tspan x="0" y="0">3 круг</tspan></text>
+  <g class="st16">
+    <line class="st6" x1="340" y1="300" x2="382.3" y2="315.4"/>
+    <line class="st6" x1="340" y1="300" x2="347.8" y2="344.3"/>
+    <line class="st6" x1="340" y1="300" x2="305.5" y2="328.9"/>
+    <line class="st6" x1="340" y1="300" x2="297.7" y2="284.6"/>
+    <line class="st6" x1="340" y1="300" x2="332.2" y2="255.7"/>
+    <line class="st6" x1="340" y1="300" x2="374.5" y2="271.1"/>
+    <line class="st6" x1="382.3" y1="315.4" x2="444.6" y2="309.2"/>
+    <line class="st6" x1="382.3" y1="315.4" x2="426" y2="360.2"/>
+    <line class="st6" x1="305.5" y1="328.9" x2="279.8" y2="386"/>
+    <line class="st6" x1="305.5" y1="328.9" x2="244.8" y2="344.4"/>
+    <line class="st6" x1="332.2" y1="255.7" x2="295.6" y2="204.8"/>
+    <line class="st6" x1="332.2" y1="255.7" x2="349.2" y2="195.4"/>
+    <line class="st6" x1="444.6" y1="309.2" x2="514.3" y2="284.7"/>
+    <line class="st6" x1="374.5" y1="271.1" x2="438.7" y2="264.1"/>
+  </g>
+  <line class="st7" x1="244.8" y1="344.4" x2="165.7" y2="315.3"/>
+  <g class="st16">
+    <line class="st6" x1="318.6" y1="544.1" x2="230.1" y2="535.6"/>
+    <line class="st6" x1="318.6" y1="544.1" x2="407.3" y2="551.1"/>
+    <line class="st6" x1="531.5" y1="460.7" x2="492" y2="517.1"/>
+  </g>
+  <circle class="st10" cx="340" cy="300" r="22"/>
+  <line class="st5" x1="313.9" y1="307.91" x2="287.8" y2="312.2"/>
+  <text class="st2" transform="translate(231.58 314.45)"><tspan x="0" y="0">Undertale</tspan></text>
+  <g>
+    <circle class="st12" cx="382.3" cy="315.4" r="8"/>
+    <circle class="st12" cx="347.8" cy="344.3" r="8"/>
+    <circle class="st12" cx="305.5" cy="328.9" r="8"/>
+    <circle class="st12" cx="297.7" cy="284.6" r="8"/>
+    <circle class="st12" cx="332.2" cy="255.7" r="8"/>
+    <circle class="st12" cx="374.5" cy="271.1" r="8"/>
+    <circle class="st12" cx="444.6" cy="309.2" r="8"/>
+    <circle class="st12" cx="426" cy="360.2" r="8"/>
+    <circle class="st12" cx="279.8" cy="386" r="8"/>
+    <circle class="st12" cx="295.6" cy="204.8" r="8"/>
+    <circle class="st12" cx="349.2" cy="195.4" r="8"/>
+    <circle class="st12" cx="514.3" cy="284.7" r="8"/>
+    <circle class="st12" cx="165.7" cy="315.3" r="8"/>
+  </g>
+  <g>
+    <text class="st4" transform="translate(377.8 318.4)"><tspan x="0" y="0">…</tspan></text>
+    <text class="st4" transform="translate(343.3 347.3)"><tspan x="0" y="0">…</tspan></text>
+    <text class="st4" transform="translate(301 331.9)"><tspan x="0" y="0">…</tspan></text>
+    <text class="st4" transform="translate(293.2 287.6)"><tspan x="0" y="0">…</tspan></text>
+    <text class="st4" transform="translate(327.7 258.7)"><tspan x="0" y="0">…</tspan></text>
+    <text class="st4" transform="translate(370 274.1)"><tspan x="0" y="0">…</tspan></text>
+    <text class="st4" transform="translate(440.1 312.2)"><tspan x="0" y="0">…</tspan></text>
+    <text class="st4" transform="translate(421.5 363.2)"><tspan x="0" y="0">…</tspan></text>
+    <text class="st4" transform="translate(275.3 389)"><tspan x="0" y="0">…</tspan></text>
+    <text class="st4" transform="translate(291.1 207.8)"><tspan x="0" y="0">…</tspan></text>
+    <text class="st4" transform="translate(344.7 198.4)"><tspan x="0" y="0">…</tspan></text>
+    <text class="st4" transform="translate(509.8 287.7)"><tspan x="0" y="0">…</tspan></text>
+    <text class="st4" transform="translate(161.2 318.3)"><tspan x="0" y="0">…</tspan></text>
+  </g>
+  <g>
+    <circle class="st12" cx="318.6" cy="544.1" r="8"/>
+    <circle class="st12" cx="230.1" cy="535.6" r="8"/>
+    <circle class="st12" cx="407.3" cy="551.1" r="8"/>
+    <circle class="st12" cx="531.5" cy="460.7" r="8"/>
+    <circle class="st12" cx="492" cy="517.1" r="8"/>
+  </g>
+  <g>
+    <text class="st4" transform="translate(314.1 547.1)"><tspan x="0" y="0">…</tspan></text>
+    <text class="st4" transform="translate(225.6 538.6)"><tspan x="0" y="0">…</tspan></text>
+    <text class="st4" transform="translate(402.8 554.1)"><tspan x="0" y="0">…</tspan></text>
+    <text class="st4" transform="translate(527 463.7)"><tspan x="0" y="0">…</tspan></text>
+    <text class="st4" transform="translate(487.5 520.1)"><tspan x="0" y="0">…</tspan></text>
+  </g>
+  <circle class="st13" cx="244.8" cy="344.4" r="9"/>
+  <line class="st5" x1="238.33" y1="350.39" x2="216.67" y2="376.1"/>
+  <text class="st2" transform="translate(164.13 388.1)"><tspan x="0" y="0">Вселенная-мост</tspan></text>
+  <circle class="st15" cx="438.7" cy="264.1" r="16"/>
+  <circle class="st17" cx="438.7" cy="264.1" r="2"/>
+  <g>
+    <line class="st8" x1="438.7" y1="264.1" x2="438.7" y2="256"/>
+    <line class="st8" x1="438.7" y1="264.1" x2="432.1" y2="269"/>
+    <line class="st8" x1="438.7" y1="264.1" x2="445.1" y2="269"/>
+  </g>
+  <g>
+    <circle class="st17" cx="438.7" cy="256" r="1.3"/>
+    <circle class="st17" cx="432.1" cy="269" r="1.3"/>
+    <circle class="st17" cx="445.1" cy="269" r="1.3"/>
+  </g>
+  <line class="st5" x1="438.7" y1="248.1" x2="438.7" y2="220"/>
+  <text class="st2" transform="translate(358.51 210)"><tspan x="0" y="0">Локальная мультивселенная</tspan></text>
+  <text class="st3" transform="translate(395.25 224)"><tspan x="0" y="0">(пример: Fell Ink)</tspan></text>
+  <g class="st14">
+    <circle class="st11" cx="321.8" cy="403.4" r="6"/>
+    <circle class="st11" cx="227.5" cy="166" r="6"/>
+    <circle class="st11" cx="427.5" cy="451.6" r="6"/>
+    <circle class="st11" cx="98.7" cy="257.5" r="6"/>
+  </g>
+  <line class="st5" x1="223.25" y1="160" x2="200" y2="130"/>
+  <text class="st2" transform="translate(165.5 120)"><tspan x="0" y="0">Антипустота</tspan></text>
+  <g class="st14">
+    <circle class="st11" cx="575" cy="300" r="6"/>
+    <circle class="st11" cx="593.8" cy="418.3" r="6"/>
+    <circle class="st11" cx="114.5" cy="382.1" r="6"/>
+    <circle class="st11" cx="74.1" cy="253.1" r="6"/>
+    <circle class="st11" cx="280.5" cy="77.8" r="6"/>
+    <circle class="st11" cx="465" cy="83.5" r="6"/>
+    <circle class="st11" cx="591.1" cy="155" r="6"/>
+    <circle class="st11" cx="152.3" cy="142.5" r="6"/>
+  </g>
+  <g>
+    <circle class="st10" cx="60" cy="592" r="7"/>
+    <text class="st1" transform="translate(80 596)"><tspan x="0" y="0">Undertale</tspan></text>
+    <circle class="st12" cx="60" cy="618" r="7"/>
+    <text class="st1" transform="translate(80 622)"><tspan x="0" y="0">Вселенная</tspan></text>
+    <circle class="st13" cx="60" cy="644" r="7"/>
+    <text class="st1" transform="translate(80 648)"><tspan x="0" y="0">Вселенная-мост</tspan></text>
+    <circle class="st15" cx="60" cy="670" r="7"/>
+    <text class="st1" transform="translate(80 674)"><tspan x="0" y="0">Локальная мультивселенная</tspan></text>
+    <circle class="st11" cx="60" cy="696" r="7"/>
+    <text class="st1" transform="translate(80 700)"><tspan x="0" y="0">Антипустота</tspan></text>
+  </g>
+</svg>
